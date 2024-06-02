@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.teamwill.leasing.LeasingApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.001 s - in com.teamwill.leasing.LeasingApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.403 s - in com.teamwill.leasing.LeasingApplicationTests
