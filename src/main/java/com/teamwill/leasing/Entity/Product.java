@@ -39,4 +39,13 @@ public class Product {
     private List<DemandeDeCredit> DemandesDeCredit;
     @ManyToOne
     private ProductType productType;
+    public Product(String name,String prix,String modele,String nbrPlace,String energie,String boite,String description) {
+    	this.name=name;
+    	this.prix=prix;
+    	this.modele=modele;
+    	this.nbrPlace=nbrPlace;
+    	this.energie=energie;
+    	this.boite=boite;
+    	this.description=description;
+    }
 }
